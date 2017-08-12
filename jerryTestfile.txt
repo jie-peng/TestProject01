@@ -1,0 +1,2 @@
+Hello world, this is my first git project!
+- By Jerry on 2017/08/12
